@@ -112,6 +112,7 @@ public class GvrController : MonoBehaviour {
   public static Vector3 Accel {
     get {
       return instance != null ? instance.controllerState.accel : Vector3.zero;
+
     }
   }
 
