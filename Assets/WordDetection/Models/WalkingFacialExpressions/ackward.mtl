@@ -1,0 +1,71 @@
+# Exported from Fuse 1.1.0
+
+newmtl fuse_material
+illum 4
+Kd 0.90 0.77 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Ka fuse_material.png
+map_Kd fuse_material.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ackward_Top_diffuse.png
+map_Ks ackward_Top_specular.png
+bump ackward_Top_normal.png
+map_Ns ackward_Top_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ackward_Bottom_diffuse.png
+map_Ks ackward_Bottom_specular.png
+bump ackward_Bottom_normal.png
+map_Ns ackward_Bottom_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ackward_Shoes_diffuse.png
+map_Ks ackward_Shoes_specular.png
+bump ackward_Shoes_normal.png
+map_Ns ackward_Shoes_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ackward_Hair_diffuse.png
+map_Ks ackward_Hair_specular.png
+bump ackward_Hair_normal.png
+map_Ns ackward_Hair_gloss.png
+
+newmtl BodyParts
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ackward_BodyParts_diffuse.png
+map_Ks ackward_BodyParts_specular.png
+bump ackward_BodyParts_normal.png
+map_Ns ackward_BodyParts_gloss.png
+

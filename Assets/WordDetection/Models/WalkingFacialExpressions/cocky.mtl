@@ -1,0 +1,71 @@
+# Exported from Fuse 1.1.0
+
+newmtl fuse_material
+illum 4
+Kd 0.90 0.77 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Ka fuse_material.png
+map_Kd fuse_material.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd cocky_Bottom_diffuse.png
+map_Ks cocky_Bottom_specular.png
+bump cocky_Bottom_normal.png
+map_Ns cocky_Bottom_gloss.png
+
+newmtl BodyParts
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd cocky_BodyParts_diffuse.png
+map_Ks cocky_BodyParts_specular.png
+bump cocky_BodyParts_normal.png
+map_Ns cocky_BodyParts_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd cocky_Hair_diffuse.png
+map_Ks cocky_Hair_specular.png
+bump cocky_Hair_normal.png
+map_Ns cocky_Hair_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd cocky_Top_diffuse.png
+map_Ks cocky_Top_specular.png
+bump cocky_Top_normal.png
+map_Ns cocky_Top_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd cocky_Shoes_diffuse.png
+map_Ks cocky_Shoes_specular.png
+bump cocky_Shoes_normal.png
+map_Ns cocky_Shoes_gloss.png
+
